@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Here’s how you can use this project:
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/ManasOrpe/text_summarizer-.git
 ```
 2. Navigate to the project folder
 
