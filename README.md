@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Here’s how you can use this project:
 1. Clone the repository:
 ```bash
-
+git clone 
 ```
 2. Navigate to the project folder
 
@@ -110,6 +110,6 @@ Here are a few ideas for what can be added next:
 **Sample Output**
 Here’s a quick look at what the model can do:
 
-![Model Inference]()
+![Model Inference](https://github.com/ManasOrpe/text_summarizer-/blob/main/photos/sample%20out.png)
 
 
